@@ -1,6 +1,6 @@
 import Fastify from "fastify";
-import DBConnector from "./DB_Connector";
 import RegisterPlugins from "./PluginsRegistration";
+import DBConnector from "./DB_Connector";
 import Routes from "./routes";
 
 let server = Fastify({
@@ -21,7 +21,7 @@ server.get("/*", async (req, res) => {
 
 const start = async () => {
   try {
-    RegisterPlugins(server);
+    await RegisterPlugins(server);
     await server.ready();
     await DBConnector();
 
