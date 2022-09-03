@@ -26,8 +26,8 @@ And then the Specials
 - Docker or something for easy deployment. (setting up stuff can sometimes just be a hassle 🤷‍♂️)
 - and more, idk interesting stuffs just keep popping up
 
-## The thoughts of the guy who is developing this
+## Developer Thoughts
 > Am I spelling developing the right way? IDK don't have time to google LOL😆
 > Hopefully I complete this project.
 > Why make this? IDK maybe i will feel less useless spending time doing this rather than doing nothing
-> 
+> Have renamed this project like more than 3 times. Decided on this one finally
