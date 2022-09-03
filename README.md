@@ -10,7 +10,7 @@ Dude if I can get some help with developing this, I would be happy.
 We have the basics here (ofc)
 
 - [ ] Notes
-- [ ] Task List
+- [x] Task List
 - [ ] Reminders
 - [ ] Time Tracking
 - [ ] Expense Manager
