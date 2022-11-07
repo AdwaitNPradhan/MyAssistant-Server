@@ -435,10 +435,10 @@
     fastify-plugin "^4.0.0"
     steed "^1.1.3"
 
-"@fastify/websocket@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@fastify/websocket/-/websocket-7.0.0.tgz#594173570a8c85bbed4dd895b750c80f3077a784"
-  integrity sha512-GmmbRSYy4379eXYd9VNBYU8NxlgkftX07fR9tRDURYDs2tDYNBXkVOlwNcxSVXodWhJhPrYkyrrAQzOSWFYW/A==
+"@fastify/websocket@^7.1.1":
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/@fastify/websocket/-/websocket-7.1.1.tgz#dfaba447f846db7432b6f9f81c8fb73e6cc470a6"
+  integrity sha512-8lvB/E6p/o3MlmHzM2NJ19ixteI6Ckw0xOebLfoHoORPmpvCWqSp8+HLz4Gc6HrChH4vM9VcSWAK8jYuTT08hQ==
   dependencies:
     fastify-plugin "^4.0.0"
     ws "^8.0.0"
